@@ -1,1 +1,1 @@
-# TitanicSurvivalPrediction
+The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage,In this challenge, i have done analysis of what sorts of people were likely to survive. In particular,applied the tools of machine learning to predict which passengers survived the tragedy.
